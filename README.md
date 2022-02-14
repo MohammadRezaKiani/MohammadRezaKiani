@@ -20,7 +20,7 @@
 
 <img align="left" alt="JavaScript" width="64px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/javascript/javascript_64x64.png" />
 
-<img align="left" alt="PHP" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/php/php-plain-wordmark.svg" />
+<img align="left" alt="PHP" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/php/php-plain.svg" />
 
 <img align="left" alt="Laravel" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/laravel/laravel-plain-wordmark.svg" />
 
@@ -46,6 +46,8 @@
 
 <br />
 <br />
-
+<br />
+<br />
+<br/>
 
 [![Mohammad Reza Kiani's github stats](https://github-readme-stats.vercel.app/api?username=MohammadRezaKiani&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
