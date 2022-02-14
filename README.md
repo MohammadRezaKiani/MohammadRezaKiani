@@ -14,23 +14,23 @@
 ### Languages & Frameworks:
 
 
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/html/html_64x64.png" />
+<img align="left" alt="HTML5" width="64px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/html/html_64x64.png" />
 
-<img align="left" alt="CSS" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/css/css_64x64.png" />
+<img align="left" alt="CSS" width="64px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/css/css_64x64.png" />
 
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/javascript/javascript_64x64.png" />
+<img align="left" alt="JavaScript" width="64px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/javascript/javascript_64x64.png" />
 
-<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/php/php-plain-wordmark.svg" />
+<img align="left" alt="PHP" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/php/php-plain-wordmark.svg" />
 
-<img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/laravel/laravel-plain-wordmark.svg" />
+<img align="left" alt="Laravel" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/laravel/laravel-plain-wordmark.svg" />
 
-<img align="left" alt="Wordpress" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/wordpress/wordpress-original.svg" />
+<img align="left" alt="Wordpress" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/wordpress/wordpress-original.svg" />
 
-<img align="left" alt="VueJs" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vuejs/vuejs-plain-wordmark.svg" />
+<img align="left" alt="VueJs" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vuejs/vuejs-plain-wordmark.svg" />
 
-<img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/dart/dart-plain-wordmark.svg" />
+<img align="left" alt="Dart" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/dart/dart-plain-wordmark.svg" />
 
-<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/flutter/flutter-original.svg" />
+<img align="left" alt="Flutter" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/flutter/flutter-original.svg" />
 
 
 <br />
@@ -39,10 +39,10 @@
 
 ### Tools:
 
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-plain-wordmark.svg" />
+<img align="left" alt="Git" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-plain-wordmark.svg" />
 
 
-<img align="left" alt="VSCode" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original-wordmark.svg" />
+<img align="left" alt="VSCode" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original-wordmark.svg" />
 
 <br />
 <br />
