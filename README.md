@@ -20,7 +20,7 @@
 
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/javascript/javascript_64x64.png" />
 
-<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/php/php-plain-wordmark.svg />
+<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/php/php-plain-wordmark.svg" />
 
 <img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/laravel/laravel-plain-wordmark.svg" />
 
